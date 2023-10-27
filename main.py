@@ -1,7 +1,3 @@
-import platform
-import random
-
-
 '''
 def f (str):
     for i in range (1,3):
@@ -417,5 +413,7 @@ def add(a,b,*qwe):
 
 add(5,3,66)
 gege
+zuzio
+ththth
 '''
 
